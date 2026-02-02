@@ -1,0 +1,15 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Frontend for PersonalWebsite",
+  "license": "ISC",
+  "author": "Georg Wahlroos",
+  "type": "commonjs",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
